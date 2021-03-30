@@ -46,7 +46,7 @@ const ll EPS = 1e-9;
 #define rev(i,n)     for(int i=n;i>=0;i--)
 #define itr          ::iterator
 #define s_sort(s)    sort(s.begin(),s.end())
-#define n_sort(a)    sort(a,a+n)
+#define n_sort(a, n)    sort(a,a+n)
 #define precise_impact cout<<setprecision(10)<<fixed;
 #define endl         "\n"
  
